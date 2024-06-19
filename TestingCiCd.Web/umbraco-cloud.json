@@ -6,6 +6,12 @@
       "Id": "4babd3d7-3ecb-4136-be38-c7a8d2b7c116",
       "Workspaces": [
         {
+          "Id": "83bd2407-3563-4cfd-ae5f-fb3cdae75f77",
+          "Name": "Development",
+          "Type": "development",
+          "Url": "https://dev-testing-ci-cd.euwest01.umbraco.io"
+        },
+        {
           "Id": "cce69a8c-9ecc-499b-abea-3b2236e93baa",
           "Name": "Live",
           "Type": "live",
