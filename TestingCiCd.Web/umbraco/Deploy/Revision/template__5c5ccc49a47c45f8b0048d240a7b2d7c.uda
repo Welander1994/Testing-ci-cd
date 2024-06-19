@@ -1,0 +1,14 @@
+{
+  "Name": "content",
+  "Alias": "content",
+  "File": "umb://template-file/content.cshtml",
+  "Udi": "umb://template/5c5ccc49a47c45f8b0048d240a7b2d7c",
+  "Dependencies": [
+    {
+      "Udi": "umb://template-file/content.cshtml",
+      "Ordering": true
+    }
+  ],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
+  "__version": "14.0.1"
+}
