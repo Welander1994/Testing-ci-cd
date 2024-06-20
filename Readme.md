@@ -8,6 +8,7 @@ With dotnet installed, run the following commands in your terminal application o
 cd src/TestingCiCd.Web
 dotnet build
 dotnet run
+
 ```
 
 The terminal output will show the application starting up and will include localhost URLs which you can use to browse to your local Umbraco site.
